@@ -1,0 +1,5 @@
+name = "JDCloud Coding Plan"
+env = ["JDCLOUD_CODING_PLAN_API_KEY"]
+npm = "@ai-sdk/openai-compatible"
+doc = "https://docs.jdcloud.com/cn/jdaip/PackageOverview"
+api = "https://modelservice.jdcloud.com/coding/openai/v1"
