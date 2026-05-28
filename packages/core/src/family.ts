@@ -49,11 +49,15 @@ export const ModelFamilyValues = [
   "qwen",
   "qwen3.5",
   "qwen3.6",
+  "qwen3.7-max",
   "qwen-free",
 
   // DeepSeek
   "deepseek",
   "deepseek-thinking",
+  "deepseek-flash",
+  "deepseek-flash-free",
+  "deepseek-flash-think",
 
   // Microsoft Phi
   "phi",
@@ -79,6 +83,7 @@ export const ModelFamilyValues = [
 
   // xAI Grok
   "grok",
+  "grok-build",
   "grok-vision",
   "grok-beta",
 
@@ -211,6 +216,7 @@ export const ModelFamilyValues = [
   "mimo-v2-omni",
   "mimo-v2.5-pro",
   "mimo-v2.5",
+  "mimo-v2.5-free",
   "mimo-pro-free",
   "mimo-omni-free",
   "mimo-flash-free",
@@ -287,12 +293,14 @@ export const ModelFamilyValues = [
   "rnj",
 
   // Tecent Hy
+  "hy3",
   "hy3-free",
 
   // Ling & Ring (InclusionAI)
   "ling",
   "ling-flash-free",
   "ring",
+  "ring-1t-free",
 
   // Kat Coder
   "kat-coder",
